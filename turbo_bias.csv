@@ -57,7 +57,9 @@ fecha,sesion,mercado,dir
 2026-11-25,ny,NQ,0
 2026-11-25,ny,ORO,-1
 2026-11-25,ny,PETROLEO,0
-2026-10-01,dia,WNQ,1
+2026-11-26,londres,NQ,0
+2026-11-26,londres,ORO,0
+2026-11-26,londres,PETROLEO,0
 2026-10-02,dia,WNQ,0
 2026-10-05,dia,WNQ,0
 2026-10-06,dia,WNQ,1
@@ -97,3 +99,4 @@ fecha,sesion,mercado,dir
 2026-11-23,dia,WNQ,0
 2026-11-24,dia,WNQ,0
 2026-11-25,dia,WNQ,0
+2026-11-26,dia,WNQ,0
